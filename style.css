@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    padding: 5px;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+.checklist {
+  padding-top: 3%;
+}
+
+.checklist > h2 {
+  text-decoration: underline;
+  padding-bottom: 15px;
+}
+
+ol {
+  margin: auto;
+  padding: 10%;
+  padding-top: 0;
+}
+
+li {
+  padding-bottom: 10px;
+}
